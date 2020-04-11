@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ·ïûÿÿÿÿ
+h	java:S116"NRename this field "_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í—ø¨ıÿÿÿÿ
+c	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¨–
+h	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÓ ©şÿÿÿÿ

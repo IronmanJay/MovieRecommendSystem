@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»à³û
+_
+java:S2147M"DCombine this catch with the one at line 74, which has the same body.(°êã§ýÿÿÿÿ
+O
+java:S1144W"3Remove this unused private "userToDocument" method.(´¤Äq8åðæ¦“.
+Z
+java:S2147P"DCombine this catch with the one at line 74, which has the same body.(ï­£Ä

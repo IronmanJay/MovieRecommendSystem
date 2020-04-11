@@ -1,0 +1,38 @@
+
+_
+java:S4488ğ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶ÿ­Û
+c
+java:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÎÚ¿ğşÿÿÿÿ
+d
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(åûËüÿÿÿÿ
+d
+java:S4488å"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ó™Ûçüÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¦ì8å¦»¦“.
+c
+java:S4488a"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÀØ§†ıÿÿÿÿ
+d
+java:S4488Ã"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÖÌÇÑùÿÿÿÿ
+d
+java:S4488Ô"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(•œ¿üÿÿÿÿ
+d
+java:S11925"IDefine a constant instead of duplicating this literal "success" 15 times.(‘Ğèåúÿÿÿÿ
+_
+java:S4488ª"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ç´­ã
+c
+java:S4488}"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹ñ¬œşÿÿÿÿ
+c
+java:S4488o"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ù·²ùúÿÿÿÿ
+_
+java:S4488›"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±‘•Ö
+c
+java:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ªÃÅÆşÿÿÿÿ
+M
+java:S1135+"2Complete the task associated to this TODO comment.(¢†ôúÿÿÿÿ
+b
+java:S11926"GDefine a constant instead of duplicating this literal "movies" 9 times.(ìû£Êıÿÿÿÿ
+d
+java:S4488¹"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¨¹·¿ıÿÿÿÿ
+d
+java:S4488Ü"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øÏÈÆÿÿÿÿÿ
+c
+java:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»é˜Ìşÿÿÿÿ
