@@ -107,7 +107,7 @@ public class RatingService {
 
     public int[] getMyRatingStat(User user) {
         FindIterable<Document> documents = getRatingCollection().find(new Document("uid", user.getUid()));
-        int[] stats = new int[10];
+        int[] stats = new int[11];
         for (Document document : documents) {
             Rating rating = documentToRating(document);
             Long index = Math.round(rating.getScore() / 0.5);

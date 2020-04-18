@@ -4,7 +4,7 @@
 Windows10、Centos7(三集群,三台都为3G，4核)、Idea2019.3、Maven3.3.9、Flume1.9、Tomcat8.5.23、Azkaban(自己编译)、elasticsearch5.6.2、kafka2.11-2.1.0、jce_policy8、node-v12.16.1、Postman、sacla2.1.1、jdk1.8、zookeeper3.4.10
 ## 【数据存储部分】 
 业务数据库：项目采用广泛应用的文档数据库 MongDB 作为主数据库，责平台业务逻辑数据的存储。
-搜索服务器：项目爱用 ElasticSearch 作为模糊检索服务器，通过利用 ES 强大的匹配查询能力实现基于内容的推荐服务。 
+搜索服务器：项目采用 ElasticSearch 作为模糊检索服务器，通过利用 ES 强大的匹配查询能力实现基于内容的推荐服务。 
 缓存数据库：项目采用 Redis 作为缓存数据库，主要用来支撑实时推荐系统部分对于数据的高速获取需求。 
 ## 【离线推荐部分】 
 离线统计服务：批处理统计性业务采用 Spark Core + Spark SQL 进行实现，实现对指标类数据的统计任务。 
