@@ -1,38 +1,40 @@
 
-_
-java:S4488ð"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶ÿ­Û
+d
+java:S4488‹"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(åûžËüÿÿÿÿ
 c
-java:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÎÚ¿ðþÿÿÿÿ
+java:S4488R"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÎÚ¿ðþÿÿÿÿ
+c
+java:S4488|"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹ñ¬œþÿÿÿÿ
 d
-java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(åûžËüÿÿÿÿ
-d
-java:S4488å"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ó™Ûçüÿÿÿÿ
+java:S4488Ú"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øÏÈÆÿÿÿÿÿ
+c
+java:S4488`"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÀØ§†ýÿÿÿÿ
+b
+java:S11925"GDefine a constant instead of duplicating this literal "movies" 9 times.(ìû£Êýÿÿÿÿ
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¦ìž8å¦»¦“.
 c
-java:S4488a"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÀØ§†ýÿÿÿÿ
+java:S4488+"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»é˜Ìþÿÿÿÿ
+c
+java:S4488?"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ªÃÅÆþÿÿÿÿ
+`
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(âŠ´øûÿÿÿÿ8èØ¹È–.
+c
+java:S4488n"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ù·²ùúÿÿÿÿ
 d
-java:S4488Ã"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÖÌÇÑùÿÿÿÿ
+java:S4488ã"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ó™Ûçüÿÿÿÿ
 d
-java:S4488Ô"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(•Žœ¿üÿÿÿÿ
+java:S4488Á"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÖÌÇÑùÿÿÿÿ
 d
-java:S11925"IDefine a constant instead of duplicating this literal "success" 15 times.(‘Ðèåúÿÿÿÿ
+java:S11924"IDefine a constant instead of duplicating this literal "success" 15 times.(‘Ðèåúÿÿÿÿ
 _
-java:S4488ª"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ç´­ã
-c
-java:S4488}"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹ñ¬œþÿÿÿÿ
-c
-java:S4488o"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ù·²ùúÿÿÿÿ
+java:S4488™"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±‘•Ö
+d
+java:S4488Ò"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(•Žœ¿üÿÿÿÿ
 _
-java:S4488›"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±‘•Ö
-c
-java:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ªÃÅÆþÿÿÿÿ
-M
-java:S1135+"2Complete the task associated to this TODO comment.(¢†ôúÿÿÿÿ
-b
-java:S11926"GDefine a constant instead of duplicating this literal "movies" 9 times.(ìû£Êýÿÿÿÿ
+java:S4488î"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶ÿ­Û
+`
+java:S1155D">Use isEmpty() to check whether the collection is empty or not.(âŠ´øûÿÿÿÿ8èØ¹È–.
+_
+java:S4488¨"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ç´­ã
 d
-java:S4488¹"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¨¹·¿ýÿÿÿÿ
-d
-java:S4488Ü"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øÏÈÆÿÿÿÿÿ
-c
-java:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»é˜Ìþÿÿÿÿ
+java:S4488·"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¨¹·¿ýÿÿÿÿ

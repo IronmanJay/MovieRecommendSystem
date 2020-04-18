@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataLoader" />
+        <module name="OfflineRecommender" />
+        <module name="businessServer" />
+        <module name="StreamingRecommender" />
+        <module name="KafkaStream" />
+        <module name="ContentRecommender" />
+        <module name="StatisticsRecommender" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="businessServer" target="1.8" />
-      <module name="ContentRecommender" target="1.8" />
-      <module name="DataLoader" target="1.8" />
-      <module name="KafkaStream" target="1.8" />
-      <module name="OfflineRecommender" target="1.8" />
-      <module name="recommender" target="1.8" />
-      <module name="StatisticsRecommender" target="1.8" />
-      <module name="StreamingRecommender" target="1.8" />
       <module name="website" target="1.8" />
     </bytecodeTargetLevel>
   </component>
