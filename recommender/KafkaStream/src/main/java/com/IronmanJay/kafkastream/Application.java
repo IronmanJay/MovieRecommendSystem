@@ -3,6 +3,7 @@ package com.IronmanJay.kafkastream;
 import org.apache.kafka.streams.KafkaStreams;
 import org.apache.kafka.streams.StreamsConfig;
 import org.apache.kafka.streams.processor.TopologyBuilder;
+import org.apache.kafka.streams.processor.WallclockTimestampExtractor;
 
 import java.util.Properties;
 
@@ -20,6 +21,7 @@ public class Application {
         settings.put(StreamsConfig.APPLICATION_ID_CONFIG, "logFilter");
         settings.put(StreamsConfig.BOOTSTRAP_SERVERS_CONFIG, brokers);
         settings.put(StreamsConfig.ZOOKEEPER_CONNECT_CONFIG, zookeepers);
+        settings.put(StreamsConfig.TIMESTAMP_EXTRACTOR_CLASS_CONFIG, WallclockTimestampExtractor.class);
 
         // 创建 kafka stream 配置对象
         StreamsConfig config = new StreamsConfig(settings);
