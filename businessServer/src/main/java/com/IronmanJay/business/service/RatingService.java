@@ -107,7 +107,8 @@ public class RatingService {
 
     public int[] getMyRatingStat(User user) {
         FindIterable<Document> documents = getRatingCollection().find(new Document("uid", user.getUid()));
-        int[] stats = new int[10];
+        // TODO:这里可能会报数组越界的情况，原来是10越界，改成11之后没问题，这里的问题对应评分是否可视化的问题
+        int[] stats = new int[11];
         for (Document document : documents) {
             Rating rating = documentToRating(document);
             Long index = Math.round(rating.getScore() / 0.5);
