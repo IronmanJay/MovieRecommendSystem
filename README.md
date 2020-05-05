@@ -1,7 +1,7 @@
 # MovieRecommendSystem
 基于深度学习的监督学习，使用梯度下降、ALS、LFM算法，使用AngularJS2生成前端框架，数据库为MongoDB，使用ElasticSearch作为搜索服务器，Redis作为缓存数据库，其中包括Spark的离线统计服务、Azkaban的工作调度服务、Flume的日志采集服务、Kafka作为消息缓冲服务，全局采用Scala编写，Java作为Tomcat部署使用，实现离线推荐、实时推荐、服务器冷启动问题解决。
 ## 【项目环境】
-Windows10、Centos7(三集群,三台都为3G，4核)、Idea2019.3、Maven3.3.9、Flume1.9、Tomcat8.5.23、Azkaban(自己编译)、elasticsearch5.6.2、kafka2.11-2.1.0、jce_policy8、node-v12.16.1、Postman、sacla2.1.1、jdk1.8、zookeeper3.4.10
+Windows10、Centos7(三集群,三台都为3G，4核)、Idea2019.3、Maven3.3.9、Flume1.9、Tomcat8.5.23、Azkaban(自己编译)、elasticsearch5.6.2、kafka2.11-2.1.0、jce_policy8、node-v12.16.1、Postman、sacla2.1.18、jdk1.8、zookeeper3.4.10
 ## 【数据存储部分】 
 业务数据库：项目采用广泛应用的文档数据库 MongDB 作为主数据库，责平台业务逻辑数据的存储。
 搜索服务器：项目采用 ElasticSearch 作为模糊检索服务器，通过利用 ES 强大的匹配查询能力实现基于内容的推荐服务。 
