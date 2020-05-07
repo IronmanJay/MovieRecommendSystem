@@ -1,103 +1,103 @@
 
-Œ
-java:S1104"oMake MONGODB_RATE_MORE_MOVIES_COLLECTION a static final constant or non-public and provide accessors if needed.(¹‡â”8®İ„§“.
-x
-java:S3008"[Rename this field "MONGODB_DATABASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùÿ¤ã8®İ„§“.
-‹
-java:S3008"nRename this field "MONGODB_RATE_MORE_MOVIES_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‡â”8®İ„§“.
+{
+java:S1104)"_Make MOVIE_RATING_PREFIX a static final constant or non-public and provide accessors if needed.(é‘ò>8®İ„§“.
+U
+java:S1444$"3Make this "public static ES_MOVIE_TYPE" field final(ßØÙÜşÿÿÿÿ8®İ„§“.
+„
+java:S3008"gRename this field "MONGODB_USER_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¶µÒ8®İ„§“.
 
 java:S3008
 "bRename this field "MONGODB_USER_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É•´Ê8®İ„§“.
-j
-java:S1444"MMake this "public static MONGODB_AVERAGE_MOVIES_SCORE_COLLECTION" field final(ÈÇ§ı8®İ„§“.
-g
-java:S1444"JMake this "public static MONGODB_GENRES_TOP_MOVIES_COLLECTION" field final(ÉĞõª8®İ„§“.
-U
-java:S1444$"3Make this "public static ES_MOVIE_TYPE" field final(ßØÙÜşÿÿÿÿ8®İ„§“.
-”
-java:S1104"xMake MONGODB_RATE_MORE_MOVIES_RECENTLY_COLLECTION a static final constant or non-public and provide accessors if needed.(˜ÊÇ8®İ„§“.
-U
-java:S1444)"9Make this "public static MOVIE_RATING_PREFIX" field final(é‘ò>8®İ„§“.
-†
-java:S1104"iMake MONGODB_MOVIE_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(Õ…íˆ8®İ„§“.
+z
+java:S3008$"XRename this field "ES_MOVIE_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßØÙÜşÿÿÿÿ8®İ„§“.
 Œ
 java:S3008"oRename this field "MONGODB_GENRES_TOP_MOVIES_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉĞõª8®İ„§“.
+}
+java:S3008"aRename this field "MONGODB_TAG_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²áów8®İ„§“.
 …
-java:S1104"hMake MONGODB_USER_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(Ê¶µÒ8®İ„§“.
-…
-java:S3008"cRename this field "MONGODB_MOVIE_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ˆ®Õÿÿÿÿÿ8®İ„§“.
+java:S3008"hRename this field "MONGODB_MOVIE_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ…íˆ8®İ„§“.
+S
+java:S1444"6Make this "public static MONGODB_DATABASE" field final(Ùÿ¤ã8®İ„§“.
 n
 java:S1444"RMake this "public static MONGODB_RATE_MORE_MOVIES_RECENTLY_COLLECTION" field final(˜ÊÇ8®İ„§“.
-z
-java:S3008)"^Rename this field "MOVIE_RATING_PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‘ò>8®İ„§“.
-Š
-java:S3008+"hRename this field "REDIS_MOVIE_RATING_QUEUE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ãÃéıÿÿÿÿ8®İ„§“.
-\
-java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ8‚Ü˜¤“.
-X
-java:S1444"<Make this "public static MONGODB_TAG_COLLECTION" field final(²áów8®İ„§“.
-†
-java:S3008"dRename this field "MONGODB_RATING_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡©ŞÜûÿÿÿÿ8®İ„§“.
 €
 java:S1104
 "cMake MONGODB_USER_COLLECTION a static final constant or non-public and provide accessors if needed.(É•´Ê8®İ„§“.
-
-java:S1104"sMake MONGODB_AVERAGE_MOVIES_SCORE_COLLECTION a static final constant or non-public and provide accessors if needed.(ÈÇ§ı8®İ„§“.
-K
-java:S1444"".Make this "public static ES_INDEX" field final(Â½ù8®İ„§“.
-z
-java:S3008$"XRename this field "ES_MOVIE_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßØÙÜşÿÿÿÿ8®İ„§“.
+†
+java:S3008"iRename this field "MONGODB_STREAM_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¹ø‘8®İ„§“.
+_
+java:S1444"BMake this "public static MONGODB_USER_RECS_COLLECTION" field final(Ê¶µÒ8®İ„§“.
+`
+java:S1444"CMake this "public static MONGODB_MOVIE_RECS_COLLECTION" field final(Õ…íˆ8®İ„§“.
 Z
 java:S1444
 "=Make this "public static MONGODB_USER_COLLECTION" field final(É•´Ê8®İ„§“.
-f
-java:S1444"IMake this "public static MONGODB_RATE_MORE_MOVIES_COLLECTION" field final(¹‡â”8®İ„§“.
-
-java:S1104"pMake MONGODB_GENRES_TOP_MOVIES_COLLECTION a static final constant or non-public and provide accessors if needed.(ÉĞõª8®İ„§“.
-S
-java:S1444"6Make this "public static MONGODB_DATABASE" field final(Ùÿ¤ã8®İ„§“.
-e
-java:S1444+"CMake this "public static REDIS_MOVIE_RATING_QUEUE_SIZE" field final(‚ãÃéıÿÿÿÿ8®İ„§“.
-}
-java:S3008"aRename this field "MONGODB_TAG_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²áów8®İ„§“.
-
-java:S3008"rRename this field "MONGODB_AVERAGE_MOVIES_SCORE_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÇ§ı8®İ„§“.
-q
-java:S1104""TMake ES_INDEX a static final constant or non-public and provide accessors if needed.(Â½ù8®İ„§“.
-y
-java:S1104"\Make MONGODB_DATABASE a static final constant or non-public and provide accessors if needed.(Ùÿ¤ã8®İ„§“.
-‡
-java:S1104"jMake MONGODB_STREAM_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(ú¹ø‘8®İ„§“.
-„
-java:S3008"gRename this field "MONGODB_USER_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¶µÒ8®İ„§“.
-p
-java:S3008""SRename this field "ES_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½ù8®İ„§“.
+z
+java:S3008)"^Rename this field "MOVIE_RATING_PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‘ò>8®İ„§“.
 “
 java:S3008"wRename this field "MONGODB_RATE_MORE_MOVIES_RECENTLY_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÊÇ8®İ„§“.
-{
-java:S1104$"YMake ES_MOVIE_TYPE a static final constant or non-public and provide accessors if needed.(ßØÙÜşÿÿÿÿ8®İ„§“.
-_
-java:S1444"BMake this "public static MONGODB_USER_RECS_COLLECTION" field final(Ê¶µÒ8®İ„§“.
-a
-java:S1444"DMake this "public static MONGODB_STREAM_RECS_COLLECTION" field final(ú¹ø‘8®İ„§“.
-†
-java:S1104"dMake MONGODB_MOVIE_COLLECTION a static final constant or non-public and provide accessors if needed.(÷ˆ®Õÿÿÿÿÿ8®İ„§“.
-`
-java:S1444">Make this "public static MONGODB_MOVIE_COLLECTION" field final(÷ˆ®Õÿÿÿÿÿ8®İ„§“.
-`
-java:S1444"CMake this "public static MONGODB_MOVIE_RECS_COLLECTION" field final(Õ…íˆ8®İ„§“.
-{
-java:S1104)"_Make MOVIE_RATING_PREFIX a static final constant or non-public and provide accessors if needed.(é‘ò>8®İ„§“.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÊ£øûÿÿÿÿ
-a
-java:S1444"?Make this "public static MONGODB_RATING_COLLECTION" field final(‡©ŞÜûÿÿÿÿ8®İ„§“.
-~
-java:S1104"bMake MONGODB_TAG_COLLECTION a static final constant or non-public and provide accessors if needed.(²áów8®İ„§“.
-‹
-java:S1104+"iMake REDIS_MOVIE_RATING_QUEUE_SIZE a static final constant or non-public and provide accessors if needed.(‚ãÃéıÿÿÿÿ8®İ„§“.
-…
-java:S3008"hRename this field "MONGODB_MOVIE_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ…íˆ8®İ„§“.
+f
+java:S1444"IMake this "public static MONGODB_RATE_MORE_MOVIES_COLLECTION" field final(¹‡â”8®İ„§“.
 ‡
 java:S1104"eMake MONGODB_RATING_COLLECTION a static final constant or non-public and provide accessors if needed.(‡©ŞÜûÿÿÿÿ8®İ„§“.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ8‚Ü˜¤“.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÊ£øûÿÿÿÿ
+…
+java:S1104"hMake MONGODB_USER_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(Ê¶µÒ8®İ„§“.
+Š
+java:S3008+"hRename this field "REDIS_MOVIE_RATING_QUEUE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ãÃéıÿÿÿÿ8®İ„§“.
+‡
+java:S1104"jMake MONGODB_STREAM_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(ú¹ø‘8®İ„§“.
+x
+java:S3008"[Rename this field "MONGODB_DATABASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùÿ¤ã8®İ„§“.
+`
+java:S1444">Make this "public static MONGODB_MOVIE_COLLECTION" field final(÷ˆ®Õÿÿÿÿÿ8®İ„§“.
+~
+java:S1104"bMake MONGODB_TAG_COLLECTION a static final constant or non-public and provide accessors if needed.(²áów8®İ„§“.
+a
+java:S1444"?Make this "public static MONGODB_RATING_COLLECTION" field final(‡©ŞÜûÿÿÿÿ8®İ„§“.
+…
+java:S3008"cRename this field "MONGODB_MOVIE_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ˆ®Õÿÿÿÿÿ8®İ„§“.
+
+java:S1104"pMake MONGODB_GENRES_TOP_MOVIES_COLLECTION a static final constant or non-public and provide accessors if needed.(ÉĞõª8®İ„§“.
+Œ
+java:S1104"oMake MONGODB_RATE_MORE_MOVIES_COLLECTION a static final constant or non-public and provide accessors if needed.(¹‡â”8®İ„§“.
+
+java:S3008"rRename this field "MONGODB_AVERAGE_MOVIES_SCORE_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÇ§ı8®İ„§“.
 †
-java:S3008"iRename this field "MONGODB_STREAM_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¹ø‘8®İ„§“.
+java:S1104"dMake MONGODB_MOVIE_COLLECTION a static final constant or non-public and provide accessors if needed.(÷ˆ®Õÿÿÿÿÿ8®İ„§“.
+
+java:S1104"sMake MONGODB_AVERAGE_MOVIES_SCORE_COLLECTION a static final constant or non-public and provide accessors if needed.(ÈÇ§ı8®İ„§“.
+y
+java:S1104"\Make MONGODB_DATABASE a static final constant or non-public and provide accessors if needed.(Ùÿ¤ã8®İ„§“.
+{
+java:S1104$"YMake ES_MOVIE_TYPE a static final constant or non-public and provide accessors if needed.(ßØÙÜşÿÿÿÿ8®İ„§“.
+X
+java:S1444"<Make this "public static MONGODB_TAG_COLLECTION" field final(²áów8®İ„§“.
+e
+java:S1444+"CMake this "public static REDIS_MOVIE_RATING_QUEUE_SIZE" field final(‚ãÃéıÿÿÿÿ8®İ„§“.
+g
+java:S1444"JMake this "public static MONGODB_GENRES_TOP_MOVIES_COLLECTION" field final(ÉĞõª8®İ„§“.
+j
+java:S1444"MMake this "public static MONGODB_AVERAGE_MOVIES_SCORE_COLLECTION" field final(ÈÇ§ı8®İ„§“.
+”
+java:S1104"xMake MONGODB_RATE_MORE_MOVIES_RECENTLY_COLLECTION a static final constant or non-public and provide accessors if needed.(˜ÊÇ8®İ„§“.
+p
+java:S3008""SRename this field "ES_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â½ù8®İ„§“.
+q
+java:S1104""TMake ES_INDEX a static final constant or non-public and provide accessors if needed.(Â½ù8®İ„§“.
+†
+java:S3008"dRename this field "MONGODB_RATING_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡©ŞÜûÿÿÿÿ8®İ„§“.
+a
+java:S1444"DMake this "public static MONGODB_STREAM_RECS_COLLECTION" field final(ú¹ø‘8®İ„§“.
+K
+java:S1444"".Make this "public static ES_INDEX" field final(Â½ù8®İ„§“.
+†
+java:S1104"iMake MONGODB_MOVIE_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(Õ…íˆ8®İ„§“.
+‹
+java:S1104+"iMake REDIS_MOVIE_RATING_QUEUE_SIZE a static final constant or non-public and provide accessors if needed.(‚ãÃéıÿÿÿÿ8®İ„§“.
+‹
+java:S3008"nRename this field "MONGODB_RATE_MORE_MOVIES_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‡â”8®İ„§“.
+U
+java:S1444)"9Make this "public static MOVIE_RATING_PREFIX" field final(é‘ò>8®İ„§“.
