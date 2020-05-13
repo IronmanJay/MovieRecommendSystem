@@ -1,6 +1,6 @@
 
 h	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÓ ©şÿÿÿÿ
-c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¨–
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ·ïûÿÿÿÿ
 (
 java:S1700"Rename field "tag"(šàÆ¯
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡˜¨–
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ·ïûÿÿÿÿ

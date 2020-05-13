@@ -217,6 +217,7 @@ object DataLoader {
       .option("es.nodes", eSConfig.httpHosts)
       .option("es.http.timeout", "100m")
       .option("es.mapping.id", "mid")
+      .option("es.nodes.wan.only", "true")
       .mode("overwrite")
       .format("org.elasticsearch.spark.sql")
       .save(eSConfig.index + "/" + ES_MOVIE_INDEX)
