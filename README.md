@@ -16,10 +16,10 @@ Windows10、Centos7(三集群,三台都为3G，4核)、Idea2019.3、Maven3.3.9�
 日志采集服务：通过利用 Flume-ng 对业务平台中用户对于电影的一次评分行为进行采集，实时发送到 Kafka 集群。 
 消息缓冲服务：项目采用 Kafka 作为流式数据的缓存组件，接受来自 Flume 的数据采集请求。并将数据推送到项目的实时推荐系统部分。 
 实时推荐服务：项目采用 Spark Streaming 作为实时推荐系统，通过接收 Kafka中缓存的数据，通过设计的推荐算法实现对实时推荐的数据处理，并将结构合并更新到 MongoDB 数据库。 
-## 【各模块划分】
-DataLoader：数据加载模块，将数据加载到MongoDB和ElasticSearch。
-StatisticsRecommender：离线统计模块，主要根据需求统计各类指标。
-OfflineRecommender：主要是基于ALS的算法实现离线推荐。
-StreamingRecommender：这部分是实时计算模块，达到实时推荐功能。
-KafkaStream：对接Kafka和Flume，获取用户的实时评分数据，结合实时计算模块，给用户实时的推荐电影。
-ContentRecommender：基于内容的推荐模块。
+## 【各模块划分】  
+DataLoader：数据加载模块，将数据加载到MongoDB和ElasticSearch。  
+StatisticsRecommender：离线统计模块，主要根据需求统计各类指标。  
+OfflineRecommender：主要是基于ALS的算法实现离线推荐。  
+StreamingRecommender：这部分是实时计算模块，达到实时推荐功能。  
+KafkaStream：对接Kafka和Flume，获取用户的实时评分数据，结合实时计算模块，给用户实时的推荐电影。  
+ContentRecommender：基于内容的推荐模块。  
