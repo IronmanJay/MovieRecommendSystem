@@ -1,12 +1,6 @@
 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»à³û
 >
 java:S1604P"(Make this anonymous inner class a lambda(ï·ÁË
-v
-java:S3008 "[Rename this field "CF_RATING_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¾Þýÿÿÿÿ
-q
-java:S3008!"[Rename this field "CB_RATING_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿºœã
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»à³û
-q
-java:S3008""[Rename this field "SR_RATING_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¬§þ
 >
 java:S1604z"(Make this anonymous inner class a lambda(Ó›±Ë
